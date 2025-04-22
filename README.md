@@ -1,2 +1,2 @@
 # edge_smarthome
-엣지 IoT를 활용한 스마트홈
+IoT 스마트홈 시스템
